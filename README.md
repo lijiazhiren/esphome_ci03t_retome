@@ -28,10 +28,15 @@ ci03t本身也可以作为一个遥控器使用
 ci03t的红外电路是必须的  esphome的可以自由设置
 
 使用方法 
+
 https://www.smartpi.cn
+
 在ci03t官网上传 CI-03T 20260629003.json 生成固件下载刷入
+
 本配置设置的引脚
+
 ci03t_pb5---->>esp_rx
+
 ci03t_pb6<<----esp_tx
 
 pa0===IR_TX(红外电路的输入引脚)
