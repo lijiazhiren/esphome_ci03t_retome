@@ -37,7 +37,7 @@ ci03t_pb6<<----esp_tx
 pa0===IR_TX(红外电路的输入引脚)
 
 ci03t设置的命令词
-
+``
 match_air=匹配空调@好的、开始匹配
 open_air=打开空调@好的、启动空调
 close_air=关闭空调@好的、空调关闭
@@ -81,7 +81,7 @@ air_stop_sleep=空调关闭睡眠模式@好的
 air_swing_allon=开启扫风@空调打开扫风
 airswing_alloff=停止扫风@空调停止扫风
 
-
+``
 
 
 
